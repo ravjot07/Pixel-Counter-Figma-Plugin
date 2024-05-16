@@ -1,0 +1,1 @@
+"# Pixel-Counter-Figma-Plugin" 
